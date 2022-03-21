@@ -9,6 +9,6 @@ TABB Contract on BSC
 Address: 0xa57e2b345035958a3a0def232a73b3d2c4869dca
 Creator: 0xc689b5d97faf293d3447dd4c95b403dd7d3df92b
 
-
+For ease of validation, the  smart contract contained in tabbre-erc20_flat.sol was used.
 
 
